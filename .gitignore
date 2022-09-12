@@ -1,0 +1,9 @@
+# Supabase
+**/supabase/.branches
+**/supabase/.temp
+
+# Node
+node_modules
+
+# Random
+.DS_Store
